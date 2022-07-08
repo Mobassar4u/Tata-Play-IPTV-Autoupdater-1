@@ -6,7 +6,7 @@ NC='\033[0m'
 info()
 {
     printf "\n-- Tata Play IPTV Playlist Autoupdater --"
-    printf "\nAuthor: Mobassar@4u\n"
+    printf "\nAuthor: Mobassar4u\n"
     echo "GitHub Profile: https://github.com/Mobassar4u"
     printf '\n'
     printf "\n * This Script is for Automatically generating the Tata Play IPTV M3U Playlists Everyday keep the Playlist URL Constant, It's only your IPTV Player which needs to refresh for every 24 Hrs. I would like to thank Mobassar@4u sincerely for his work on Playlist Generator. \n* Enter only valid information \n\nNow, Get ready to dwell into this journey. \n"
